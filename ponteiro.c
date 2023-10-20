@@ -46,7 +46,7 @@ float media( int numeros[] )
 /* funcao principal */
 int main() {
    // declaracao e inicializacao do vetor numeros
-   int numeros[50] = {4,2,2,6,1,5,3,5};
+   int numeros[50] = {2,4,6,7,2,3,2,2,2,0};
    int* ponteiro;
 
    // saida
